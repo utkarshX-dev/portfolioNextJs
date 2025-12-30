@@ -203,7 +203,7 @@ export default function Home() {
             </p>
           </div>
         </section>
-
+      
         {/* Experience section */}
         <section className="space-y-8">
           <h2 className="text-xl font-bold text-zinc-900 dark:text-zinc-50">
@@ -249,6 +249,38 @@ export default function Home() {
           </div>
         </section>
 
+        {/* Resume section */}
+<section className="space-y-6">
+  <h2 className="text-xl font-bold text-zinc-900 dark:text-zinc-50">
+    Resume
+  </h2>
+
+  <div className="p-6 rounded-2xl border border-zinc-100 bg-white shadow-sm flex items-center justify-between dark:bg-zinc-900 dark:border-zinc-800">
+    <div className="space-y-1">
+      <h3 className="font-semibold text-zinc-900 dark:text-zinc-50">
+        Utkarsh Bhandari
+      </h3>
+      <p className="text-sm text-zinc-500 dark:text-zinc-400">
+        Software Engineer • Web Development • System Design • DSA
+      </p>
+    </div>
+
+    <a
+      href="/resume/utkarshResume.pdf"
+      download
+      className="
+        inline-flex items-center gap-2
+        px-4 py-2 rounded-xl text-sm font-medium
+        bg-zinc-900 text-white
+        hover:bg-zinc-800 transition
+        dark:bg-zinc-100 dark:text-zinc-900 dark:hover:bg-zinc-200
+      "
+    >
+      Download Resume
+      <ArrowUpRight className="w-4 h-4" />
+    </a>
+  </div>
+</section>
 
 
         {/* Education section */}
