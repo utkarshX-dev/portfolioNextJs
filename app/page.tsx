@@ -181,7 +181,7 @@ export default function Home() {
                   <div className="flex items-center gap-3 ml-2">
                     <a href="https://github.com/utkarshX-dev" className="text-zinc-400 hover:text-zinc-900 transition-colors dark:hover:text-white"><Github className="w-4 h-4" /></a>
                     {/* <a href="#" className="text-zinc-400 hover:text-zinc-900 transition-colors dark:hover:text-white"><Linkedin className="w-4 h-4" /></a> */}
-                    <a href="https://linkedin.com/in/utkarsh-bhandari" className="text-zinc-400 hover:text-zinc-900 transition-colors dark:hover:text-white"><Linkedin className="w-4 h-4" /></a>
+                    <a href="https://www.linkedin.com/in/bhandari-utkarsh/" className="text-zinc-400 hover:text-zinc-900 transition-colors dark:hover:text-white"><Linkedin className="w-4 h-4" /></a>
                     <a href="https://leetcode.com/u/ishowcode4444/" className="text-zinc-400 hover:text-zinc-900 transition-colors dark:hover:text-white"><SiLeetcode className="w-4 h-4" /></a>
                   </div>
                 </div>
