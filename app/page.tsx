@@ -165,7 +165,7 @@ export default function Home() {
             <div className="flex items-center gap-6">
               <div className="w-20 h-20 rounded-3xl border border-zinc-200 bg-white p-1 shadow-sm overflow-hidden dark:bg-zinc-900 dark:border-zinc-800">
                 <Image
-                  src="/me.png"
+                  src="/MYIMG/utkarsh.png"
                   alt="Profile"
                   className="w-full h-full object-cover rounded-full"
                   width={100}
@@ -199,7 +199,7 @@ export default function Home() {
               I use this space to share blogs, personal insights, and learnings from my journey in software engineering.
             </p>
             <p className="text-sm italic opacity-80">
-              It is currently <b>01:21 AM</b> on <i>Dec 28, 2025</i>. I’m setting high goals for this space, and if you’re reading an article here, it means I’m following through. Feel free to explore.
+              It is currently <b>01:21 AM</b> on <i>Jan 1, 2026</i>. A Happy New Year! I’m setting high goals for this space, and if you’re reading an article here, it means I’m following through. Feel free to explore.
             </p>
           </div>
         </section>
