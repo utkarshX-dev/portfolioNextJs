@@ -47,7 +47,7 @@ export default function Home() {
       description: "A Learning Management System for course management and student engagement.",
       image: "/MYIMG/lms.png",
       tags: ["React", "Node.js", "MongoDB", "Express", "Tailwind", "Razorpay"],
-      link: "https://lmswebsite-red.vercel.app/",
+      link: "https://vincentra.vercel.app/",
     },
     {
       title: "EyeScope AI",
